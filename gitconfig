@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nathypassos@gmail.com
+	name = Natalia Passos
